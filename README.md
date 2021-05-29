@@ -30,10 +30,15 @@ this is web designing front page
 ![tajmahal](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg) 
 
 
-
+for links
 [google](https://www.google.com)
 
+for programe
 ~~~python
 def fun():
 print("hi")
 ~~~
+
+Table 1 | table 2
+--------|-----
+table body1|table body2
