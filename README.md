@@ -32,6 +32,8 @@ this is web designing front page
 
 for links
 [google](https://www.google.com)
+[master markdown](https://guides.github.com/features/mastering-markdown)
+
 
 for programe
 ~~~python
