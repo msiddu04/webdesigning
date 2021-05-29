@@ -25,3 +25,6 @@ this is web designing front page
       1.toamato
       2.potatoes
       3.spinach
+
+
+![tajmahal](https://lp-cms-production.imgix.net/2020-11/GettyRF_494057771.jpg)
